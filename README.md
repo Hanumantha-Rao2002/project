@@ -1,4 +1,4 @@
-# project
+# File Integrity Monitor 
 
 Here's a detailed outline for a File Integrity Monitor project, covering different levels of complexity:
 
